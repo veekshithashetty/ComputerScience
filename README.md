@@ -1,2 +1,2 @@
-# ComputerScience
+# algorithms-exercises
 Created with CodeSandbox
